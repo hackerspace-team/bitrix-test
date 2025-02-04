@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/bitrix/js/ui/tilegrid/grid.js" => "173859057718706","/bitrix/js/ui/tilegrid/item.js" => "17385905774251","/bitrix/js/ui/tilegrid/dragdrop.js" => "17385905773325",]; ?>

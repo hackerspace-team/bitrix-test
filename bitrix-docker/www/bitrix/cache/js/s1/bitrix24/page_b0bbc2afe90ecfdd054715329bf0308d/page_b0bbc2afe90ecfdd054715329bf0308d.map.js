@@ -1,0 +1,1 @@
+{"version":3, "file":"page_b0bbc2afe90ecfdd054715329bf0308d.js", "sections": [{"offset": { "line": 2, "column": 0 }, "map": {"version":3,"sources":["/bitrix/components/bitrix/calendar.grid/templates/.default/script.js"],"names":["window"],"mappings":"CAAC,SAASA,KAAV,CACEA","file":"script.map.js"}}]}

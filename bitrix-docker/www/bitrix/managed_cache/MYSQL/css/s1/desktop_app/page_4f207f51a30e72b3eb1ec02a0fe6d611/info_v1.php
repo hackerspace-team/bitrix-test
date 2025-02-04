@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/bitrix/components/bitrix/im.messenger/templates/iframe/style.css" => "1738590561340",]; ?>

@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001738590626';
+$dateexpire = '001741182626';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:3:{s:15:"resultEntryList";a:1:{i:0;a:30:{s:2:"ID";s:1:"7";s:9:"PARENT_ID";s:1:"7";s:4:"NAME";s:64:"Встреча с заказчиком у него в офисе";s:8:"OWNER_ID";s:1:"1";s:5:"RRULE";s:0:"";s:6:"EXDATE";s:0:"";s:9:"DATE_FROM";s:19:"04.02.2025 12:00:00";s:7:"DATE_TO";s:19:"04.02.2025 14:00:00";s:7:"TZ_FROM";s:13:"Europe/Moscow";s:5:"TZ_TO";s:13:"Europe/Moscow";s:14:"TZ_OFFSET_FROM";s:5:"10800";s:12:"TZ_OFFSET_TO";s:5:"10800";s:10:"IS_MEETING";b:0;s:14:"MEETING_STATUS";s:1:"Y";s:8:"CAL_TYPE";s:4:"user";s:9:"DT_LENGTH";i:7200;s:12:"DT_SKIP_TIME";s:1:"N";s:10:"SECTION_ID";s:1:"4";s:16:"DATE_FROM_TS_UTC";s:10:"1738648800";s:14:"DATE_TO_TS_UTC";s:10:"1738656000";s:19:"DATE_FROM_FORMATTED";s:24:"Tue Feb 04 2025 12:00:00";s:17:"DATE_TO_FORMATTED";s:24:"Tue Feb 04 2025 14:00:00";s:7:"SECT_ID";s:1:"4";s:13:"ATTENDEE_LIST";a:0:{}s:10:"IMPORTANCE";s:6:"normal";s:13:"PRIVATE_EVENT";s:0:"";s:11:"DESCRIPTION";s:0:"";s:12:"~DESCRIPTION";s:0:"";s:17:"~USER_OFFSET_FROM";i:0;s:15:"~USER_OFFSET_TO";i:0;}}s:9:"userIndex";a:0:{}s:14:"dateTimeFormat";s:19:"DD.MM.YYYY HH:MI:SS";}}';
+return true;
+?>
